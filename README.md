@@ -1,3 +1,1 @@
 # Ticker_Extension
- 
-ss
